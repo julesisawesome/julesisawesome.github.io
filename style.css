@@ -1,6 +1,9 @@
 img {
   height: 150px;
 }
-*{
+* {
   text-align: center;
+}
+ul {
+  font:italic;
 }
